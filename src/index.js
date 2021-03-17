@@ -1,2 +1,3 @@
 const titleElement = document.querySelector("#title");
-titleElement.style.color = "red";
+titleElement.style.color = "green";
+console.log("Hello World 1");
